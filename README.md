@@ -1,4 +1,4 @@
 # An Analysis of Kickstarter Campaigns.
 Performing analysis on Kickstarter data to uncover trends
 
-![Fadeel](/Fadeel.png)
+![Barca-1](/Barca-1.png)
